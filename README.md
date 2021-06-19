@@ -1,4 +1,4 @@
-# cpsc101 Introduction to Computer Science
+# Introduction to Computer Science
 
 Welcome to Intro CS Curriculum!
 
